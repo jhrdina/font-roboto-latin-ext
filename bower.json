@@ -1,5 +1,5 @@
 {
-  "name": "font-roboto",
+  "name": "font-roboto-latin-ext",
   "version": "1.0.1",
   "description": "An HTML import for Roboto",
   "authors": [
@@ -11,11 +11,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/PolymerElements/font-roboto.git"
+    "url": "git://github.com/jhrdka/font-roboto-latin-ext.git"
   },
   "main": "roboto.html",
   "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/PolymerElements/font-roboto/",
+  "homepage": "https://github.com/jhrdka/font-roboto-latin-ext/",
   "ignore": [
     "/.*"
   ]
